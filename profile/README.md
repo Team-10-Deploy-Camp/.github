@@ -1,6 +1,6 @@
 
 <div align="center">
-      <img src="../assets/TRESYS-Banner.png" alt="Logo">
+      <img src="../asset/TRESYS-Banner.png" alt="Logo">
 </div>
 
 <h1 align="center">TRESYS</h1>
