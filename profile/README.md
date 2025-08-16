@@ -8,7 +8,7 @@
 
 
 <p align="center">About TRESYS</p>
-TRESYS is an intelligent travel recommendation platform that leverages advanced machine learning algorithms to deliver highly personalized destination suggestions tailored to individual travelers. Built on a comprehensive dataset of over 9,500 real tourism interactions across Indonesia's diverse archipelago, TRESYS employs sophisticated data analytics to understand complex patterns in user behavior, preferences, and demographics.</br>
+TRESYS is an intelligent travel recommendation platform that leverages advanced machine learning algorithms to deliver highly personalized destination suggestions tailored to individual travelers. Built on a comprehensive dataset of over 9,500 real tourism interactions across Indonesia's diverse archipelago, TRESYS employs sophisticated data analytics to understand complex patterns in user behavior, preferences, and demographics.</br></br>
 
 The platform utilizes cutting-edge recommendation systems that go beyond simple filtering to provide contextually relevant suggestions based on factors such as travel history, seasonal preferences, budget constraints, activity interests, and cultural inclinations. By processing vast amounts of tourism data through neural networks and collaborative filtering techniques, TRESYS creates detailed user profiles that enable precise matching between travelers and destinations.
 
