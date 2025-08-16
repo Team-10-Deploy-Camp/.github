@@ -98,11 +98,12 @@ TRESYS addresses Indonesia's tourism discovery challenges through an advanced AI
 
 ## Repository
  ### 📱 [Tourism Recommendation Deployment Repository](https://github.com/Team-10-Deploy-Camp/tourism-recommendation-deployment)
- The **Tourism Recommendation Deployment** repository contains the complete deployment infrastructure and orchestration for the TRESYS tourism recommendation system. It includes containerization configurations, Kubernetes manifests, CI/CD pipelines, and cloud infrastructure as code to ensure reliable and scalable deployment of the entire tourism recommendation platform across different environments.
+ The **Tourism Recommendation Deployment** repository contains the complete deployment infrastructure and orchestration for the TRESYS tourism recommendation system. It includes containerization configurations, Kubernetes manifests, and cloud infrastructure as code to ensure reliable and scalable deployment of the entire tourism recommendation platform across different environments.
    
  ### 🤖[Data Engineering Architecture Repository](https://github.com/Team-10-Deploy-Camp/data-engineering-architecture)
 
- The **Data Engineering Architecture** repository houses the comprehensive data pipeline infrastructure for TRESYS. It includes ETL processes, data warehousing solutions, real-time data streaming, and the foundational architecture that powers the machine learning recommendation engine with clean, structured tourism data.
+ The **Data Engineering Architecture** repository houses the comprehensive data pipeline infrastructure for TRESYS. It includes ETL processes, data warehousing solutions, and the foundational architecture that powers the machine learning recommendation engine with clean, structured tourism data.
+
    
  ### ☁️[Dashboard UI Recommendation System Repository](https://github.com/Team-10-Deploy-Camp/dashboard-ui-recommendation-system)
- The **Dashboard UI Recommendation System** repository contains the web-based administrative dashboard for TRESYS. It provides tourism businesses and administrators with intuitive interfaces to monitor recommendation performance, analyze user behavior, manage destination data, and gain actionable insights from the recommendation system's analytics.
+ The **Dashboard UI Recommendation System** repository contains the web-based administrative dashboard for TRESYS. It provides tourism businesses and administrators with intuitive interfaces to gain actionable insights from the recommendation system's analytics.
